@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Titulo",
+  title: "Página de Títulos",
   description: "Projeto de estudo de componentização com props utilizando React e Next.js",
 };
 
